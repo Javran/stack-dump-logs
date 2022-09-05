@@ -1,0 +1,4 @@
+resolver: lts-19.20
+packages:
+- pkg0
+- pkg1
